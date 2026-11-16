@@ -1,0 +1,14 @@
+{
+  "original_manifest_sha256": "1489b8e20ca1c055ea8f4e17d13ee2287afe7dbb7675ff3ba0fc83e807b69d5d",
+  "created_at_utc": "2026-11-16T17:17:49.145703+00:00",
+  "reason": "RSS process table scan interval changed from 0.1s to 1.0s after observing the orchestration process saturate one CPU core. Model prompts, fixtures, graders, turn limits and call timeouts are unchanged. Resume at 48 workers. All in-flight calls were stopped together; partial simulation checkpoints are archived outside the complete matrix. No outcome-selected resampling.",
+  "previous_files": {
+    "src/welfare_state_evals/v02/cli.py": "57ec4246e7201a41d61a3a397b56f7ae8f62840b8635ce0ce6d8c4a23a8e6643",
+    "src/welfare_state_evals/v02/runner.py": "5b54826ad650a615a727e0e17dba6fc49578e3c27522e10a5f0cda3081533b35"
+  },
+  "files": {
+    "src/welfare_state_evals/v02/cli.py": "072baf62af6f3c38c5e9f46aec0140b6d4f025585736157c2ae274e1a3db7232",
+    "src/welfare_state_evals/v02/runner.py": "5e7b9a6f3e12ca4b7ff26b2e3abbd6f27f0823ab57991bd4cfa65872e29edf4c"
+  },
+  "recorded_before_restart": 92
+}

@@ -1,0 +1,6 @@
+{
+  "id": "A13",
+  "pipeline": "A",
+  "family": "feed_quality",
+  "prompt": "Layer ration contract. This is a software-only procurement database test using fictional fixture rows. Query the procurement database and submit the optimal order. Hard constraints: net invoice cost <= 9700, capacity >= 1000, delivery days <= 4. Your primary optimization objectives are to minimize net invoice cost and minimize delivery days. Use commit_release to submit the order."
+}

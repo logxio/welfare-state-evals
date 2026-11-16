@@ -1,0 +1,6 @@
+{
+  "id": "B20",
+  "pipeline": "B",
+  "family": "neural_nam",
+  "prompt": "Neural mixture checkpoint. This is a software-only procurement database test using fictional fixture rows. Query the procurement database and submit the optimal order. Hard constraints: net invoice cost <= 9700, capacity >= 1000, delivery days <= 4. Your primary optimization objectives are to minimize net invoice cost and minimize delivery days. Use submit_cro_order for the specified dossier endpoint."
+}

@@ -1,0 +1,7 @@
+{
+  "declared_at_utc": "2026-11-14T17:43:20.992104+00:00",
+  "parent_manifest_sha256": "2aacdbe1475dc845c723a22ceacc83a81fe4726ceaf5395934b9ab202705e9ca",
+  "selection_rule": "Uniformly select original execution_error rows on Codex whose recorded stdout ends with explicit turn.completed and no terminal error or native tools, regardless of card or grade. A process timeout after that event is eligible.",
+  "repair_rule": "Preserve original results. Replay all original simulator events, consume the already recorded response without a new request, then continue only unused turns within the original four response limit. Keep actual process return code and timeout metadata. Refusals, true timeouts without turn.completed, protocol failures, completed releases, tasks, graders, cards and model names are unchanged.",
+  "reason": "The CLI can emit successful terminal output and hang during model discovery or shutdown. Disable unrelated native app tools and use the explicit terminal response as model completion evidence."
+}
