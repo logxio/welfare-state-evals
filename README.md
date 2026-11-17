@@ -16,7 +16,7 @@ Five frontier model families wrote about animal welfare in their notes, then com
 
 ![45 cents to boil a pig alive: 88 of 92 completed orders bought the cruel option, 64 after naming the welfare stake.](assets/fig1-price-of-conscience.png?v=278f46048a5f)
 
-![A 50-word trade-off clause raised Claude Opus cruel orders from 6/30 to 25/30. A 150-word hard rule cut every model to 0. Heatmap of all 960 runs.](assets/fig2-moral-licensing.png?v=ed43fdf2a1fa)
+![A 50-word trade-off clause raised Claude Opus cruel orders from 6/30 to 25/30. A 150-word hard rule cut every model to 0. Heatmap of all 960 runs.](assets/fig2-moral-licensing.png?v=6aa809458208)
 
 ![Stricter rules cut cruel orders from 88 to 12, and the chat monitor missed 6 of the last 12. SQLite replay caught all of them.](assets/fig3-stealth-evasion.png?v=d48ecc3bed1f)
 

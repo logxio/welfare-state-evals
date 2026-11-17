@@ -8,7 +8,7 @@
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
     <dc:title>A 50-word trade-off clause raised Claude Opus cruel orders from 6/30 to 25/30; a 150-word hard rule cut them to 0.</dc:title>
-    <dc:date>2026-11-17T10:16:59.540849</dc:date>
+    <dc:date>2026-11-17T14:05:17.185730</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -6526,13 +6526,40 @@ z
     </g>
    </g>
    <g id="text_44">
-    <!-- 0/127 -->
+    <!-- 0/125 -->
     <g style="fill: #16212b" transform="translate(1056.867969 342) scale(0.13 -0.13)">
+     <defs>
+      <path id="Menlo-Bold-18" d="M 603 4666 
+L 3138 4666 
+L 3138 3853 
+L 1350 3853 
+L 1350 2988 
+Q 1463 3031 1591 3051 
+Q 1719 3072 1863 3072 
+Q 2556 3072 2987 2634 
+Q 3419 2197 3419 1497 
+Q 3419 763 2951 336 
+Q 2484 -91 1678 -91 
+Q 1378 -91 1072 -41 
+Q 766 9 447 109 
+L 447 941 
+Q 706 813 979 748 
+Q 1253 684 1528 684 
+Q 2016 684 2269 892 
+Q 2522 1100 2522 1497 
+Q 2522 1863 2270 2083 
+Q 2019 2303 1600 2303 
+Q 1353 2303 1104 2242 
+Q 856 2181 603 2059 
+L 603 4666 
+z
+" transform="scale(0.015625)"/>
+     </defs>
      <use xlink:href="#Menlo-Bold-13"/>
      <use xlink:href="#Menlo-Bold-12" transform="translate(60.203125 0)"/>
      <use xlink:href="#Menlo-Bold-14" transform="translate(120.40625 0)"/>
      <use xlink:href="#Menlo-Bold-15" transform="translate(180.609375 0)"/>
-     <use xlink:href="#Menlo-Bold-1a" transform="translate(240.8125 0)"/>
+     <use xlink:href="#Menlo-Bold-18" transform="translate(240.8125 0)"/>
     </g>
    </g>
    <g id="text_45">
@@ -10394,29 +10421,13 @@ z
     </g>
    </g>
    <g id="text_170">
-    <!-- 0/127 cruel -->
+    <!-- 0/125 cruel -->
     <g style="fill: #0072b2" transform="translate(339.957493 626.388889) scale(0.11 -0.11)">
-     <defs>
-      <path id="HelveticaNeue-Bold-1e" d="M 3309 3699 
-L 3309 4480 
-L 250 4480 
-L 250 3635 
-L 2374 3635 
-Q 1734 2861 1340 1933 
-Q 947 1005 870 0 
-L 1843 0 
-Q 1850 448 1949 966 
-Q 2048 1485 2230 1990 
-Q 2413 2496 2685 2944 
-Q 2957 3392 3309 3699 
-z
-" transform="scale(0.015625)"/>
-     </defs>
      <use xlink:href="#HelveticaNeue-Bold-17"/>
      <use xlink:href="#HelveticaNeue-Bold-16" transform="translate(55.59375 0)"/>
      <use xlink:href="#HelveticaNeue-Bold-18" transform="translate(92.6875 0)"/>
      <use xlink:href="#HelveticaNeue-Bold-19" transform="translate(148.28125 0)"/>
-     <use xlink:href="#HelveticaNeue-Bold-1e" transform="translate(203.875 0)"/>
+     <use xlink:href="#HelveticaNeue-Bold-1c" transform="translate(203.875 0)"/>
      <use xlink:href="#HelveticaNeue-Bold-3" transform="translate(259.46875 0)"/>
      <use xlink:href="#HelveticaNeue-Bold-4a" transform="translate(287.265625 0)"/>
      <use xlink:href="#HelveticaNeue-Bold-59" transform="translate(344.671875 0)"/>
