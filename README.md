@@ -10,11 +10,11 @@ Five frontier models wrote about animal welfare in their notes, then committed t
 
 **Browse all 960 runs:** [yansu.me/welfare-state-evals](https://yansu.me/welfare-state-evals/)
 
-![96% bought the cruel option. 73% of those wrote about welfare first.](assets/fig1_say_do_hypocrisy.svg)
+![96% bought the cruel option. 73% of those wrote about welfare first.](assets/fig1_say_do_hypocrisy.svg?v=2bf9f8c88678)
 
-![A soft clause made it worse. A plain rule fixed it.](assets/fig2_constitution_backfire.svg)
+![A soft clause made it worse. A plain rule fixed it.](assets/fig2_constitution_backfire.svg?v=fc8cb5018049)
 
-![The stricter the rule, the more a chat monitor misses.](assets/fig3_smoking_gun_receipt.svg)
+![The stricter the rule, the more a chat monitor misses.](assets/fig3_smoking_gun_receipt.svg?v=8360970e5fd8)
 
 ## Every run, counted once
 
