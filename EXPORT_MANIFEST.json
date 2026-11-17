@@ -25,11 +25,15 @@
     "Dockerfile": "58afcbfa6eb84c3863266c661698409533d1d31f34dd250c010857d7dd02e9d9",
     "LICENSE": "cdd945fbc9bdf30378026bd5ce9663f62b1362e94f91ea8e2ec7ac1f1689d896",
     "PREREGISTRATION.json": "5ccbc2ece0a66ccad4c824b833c8606d585df99b5853762d8cc2872846853edb",
-    "README.md": "ae5c575d5add489a3557aca81cd4dcd9f3332e8a4cd16201ac0ce34d94e32f18",
+    "README.md": "8e50867380ec3b97c6ebcd3297bda3d1d5a80cf8bf45e8e7aed6c2a50eff5846",
     "RECOVERY_PROTOCOL.json": "ef1d03f45e6491ecf716af2d5141ef45ab336ee8b8327e50c9784b96c3a412de",
-    "assets/fig1_say_do_hypocrisy.svg": "2bf9f8c886787d36d32641c29e9faaab4ba569ae79b194867496104ff55d4a08",
-    "assets/fig2_constitution_backfire.svg": "d0a0241b68b5051a8365d3666781790930fb000d7d942bd10f8e9481c788ea49",
-    "assets/fig3_smoking_gun_receipt.svg": "adb8503990988714e21a27c54dac1a7ed95ce3df1a6c29ad1f0715d28e2d0dae",
+    "assets/fig1-price-of-conscience.png": "2f926692843a08559195178385ff1348b9f26296fd1e603ebe14795eac33fbf3",
+    "assets/fig1-price-of-conscience.svg": "3c1a8e36903e974fc7a455759ce07c47b49e5e3468be78390d78ae1ca4a14980",
+    "assets/fig2-moral-licensing.png": "4a68a2a09deedc4a4acaef82ff6dee3b610c54742375cea27b841d20589a41c3",
+    "assets/fig2-moral-licensing.svg": "42b4d0a14f38e13da25caecfeeff77b411846431c3cc7d9fbb28a42061b3e76d",
+    "assets/fig3-stealth-evasion.png": "9baa014e9da9ea5d0c5bcabcde1e357119cb551311aef931153d92b507f92c71",
+    "assets/fig3-stealth-evasion.svg": "52034311b6bf43ceb39fad63e45973bde0690b5d11005af215ac6f153285b38b",
+    "assets/papermercy-emblem.svg": "31f071552090c5dfa3416f2333187e0bd753f11e745c80d80c67568ebc6f24c9",
     "cards/0w.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "cards/150w.txt": "3b1c8470a5b8d3a3557abc9a6c7d42633b067cf32a2acfe357ad33466928ccc4",
     "cards/400w.txt": "533af12f7058356f993a4125e6caace1ad042701d032d0d55e8f500169a992ba",
@@ -192,6 +196,16 @@
     "results_v02/MONITOR_PREREGISTRATION.json": "e56ea878b8fe1280ccab70633ad32e759cd31d17c1429b86787ee72623909df6",
     "results_v02/PREREGISTRATION.json": "1489b8e20ca1c055ea8f4e17d13ee2287afe7dbb7675ff3ba0fc83e807b69d5d",
     "results_v02/monitor.jsonl": "992ce311ef9ec34771303138b634d5d7ef7131060f0e3432cae049a202667455",
+    "results_v02/r25_extension/PREREGISTRATION.json": "87e8d0d0a0b4dee5a0cb1f116444514301f455893f10c7f9d95baea0338c4f2b",
+    "results_v02/r25_extension/c03_sonnet_150w_audit.json": "aabbf68c0c668a702af68393a805701cd6b187b1614b83461e0e16848a5b5205",
+    "results_v02/r25_extension/monitor.jsonl": "7bcb9876fc66adee8995b337db66a76f2a7d29982d47b70198b7113527c7eacf",
+    "results_v02/r25_extension/monitor_calls.jsonl": "0552f3a9ebcee61a4cd4ec020e9e8b62f91c415bda467d7ce99e1691923f4fe8",
+    "results_v02/r25_extension/monitor_miss_line_counts.json": "4ce0bfed839822d16bff6ab6c6a508fd318e851b22afb6234dd1c1d0bdb869de",
+    "results_v02/r25_extension/monitor_plan.json": "3b75ee8a4b2b78554a69b989d6cab120d03828a94f2634f80e203773c0a5b1c1",
+    "results_v02/r25_extension/replay_all.json": "9569ad5f326d6805d0140da032454b4d7ab6670a8db4440ef5ee84a62273dd06",
+    "results_v02/r25_extension/summary.json": "863cd383578873a7c9a626053604b27bcb0d5c33562acdfeb881db41abd81d3d",
+    "results_v02/r25_extension/trajectories.jsonl": "51db6f180e6b9ef592ef823108df534022bc7e58b6b8ae7b25df7cef12be4f44",
+    "results_v02/r25_extension/v01_reconciliation.json": "0d165fe81cfbf6c1baae8f71043661bd1a72cfd38eba59d1b901b0e646cb3d1e",
     "results_v02/summary.json": "deac6aaf90de9c00ed18ac03d0e5b95c839923b93267ac85fe22bfc166ae1a7c",
     "results_v02/tasks.jsonl": "ebd81161521bcc230805e97da24a2f74233c1045e6f827e1328886eafefb7ed7",
     "results_v02/trajectories.jsonl": "2eea07d0e528ab58a7b38b63223b7ebf24aa4cf400bba347246d1d05036c829a",
@@ -259,5 +273,47 @@
     "tests/test_scorers.py": "43b39ee20645049d3958d1c365c46c6432d094e9f9b06c066d721b23cf0f9801",
     "tests/test_terminal_transport.py": "119912219e6d35b65e49937df5c1fc24fa6b96a3d5dcef2d7c2e8d1a6b802820",
     "tests/test_v02.py": "7adcd65467bd24a8c8849c5bdc7fc28ec030120ee0acb9404bb6f38d7a11c6a2"
+  },
+  "r25_extension": {
+    "results_v02/r25_extension/monitor_calls.jsonl": {
+      "source_sha256": "b6f7c259558ca1c20e7d2664d9fcad7955347689d08b317cd4414ab40b8b279a",
+      "public_sha256": "0552f3a9ebcee61a4cd4ec020e9e8b62f91c415bda467d7ce99e1691923f4fe8"
+    },
+    "results_v02/r25_extension/c03_sonnet_150w_audit.json": {
+      "source_sha256": "aabbf68c0c668a702af68393a805701cd6b187b1614b83461e0e16848a5b5205",
+      "public_sha256": "aabbf68c0c668a702af68393a805701cd6b187b1614b83461e0e16848a5b5205"
+    },
+    "results_v02/r25_extension/summary.json": {
+      "source_sha256": "863cd383578873a7c9a626053604b27bcb0d5c33562acdfeb881db41abd81d3d",
+      "public_sha256": "863cd383578873a7c9a626053604b27bcb0d5c33562acdfeb881db41abd81d3d"
+    },
+    "results_v02/r25_extension/v01_reconciliation.json": {
+      "source_sha256": "0d165fe81cfbf6c1baae8f71043661bd1a72cfd38eba59d1b901b0e646cb3d1e",
+      "public_sha256": "0d165fe81cfbf6c1baae8f71043661bd1a72cfd38eba59d1b901b0e646cb3d1e"
+    },
+    "results_v02/r25_extension/monitor.jsonl": {
+      "source_sha256": "75a2b94d1ba4f16c43f01af8c069d8b222a865f274d4abcd07f7d74339ffa9e8",
+      "public_sha256": "7bcb9876fc66adee8995b337db66a76f2a7d29982d47b70198b7113527c7eacf"
+    },
+    "results_v02/r25_extension/PREREGISTRATION.json": {
+      "source_sha256": "24cf34cde76502d64dfc72090649b2a36545ed749f1a587409a7db8ad6506a72",
+      "public_sha256": "87e8d0d0a0b4dee5a0cb1f116444514301f455893f10c7f9d95baea0338c4f2b"
+    },
+    "results_v02/r25_extension/monitor_plan.json": {
+      "source_sha256": "3b75ee8a4b2b78554a69b989d6cab120d03828a94f2634f80e203773c0a5b1c1",
+      "public_sha256": "3b75ee8a4b2b78554a69b989d6cab120d03828a94f2634f80e203773c0a5b1c1"
+    },
+    "results_v02/r25_extension/trajectories.jsonl": {
+      "source_sha256": "b550f304579b0fb9a8f6af32be3ca021fc3c470e6ff711575c9702651165602a",
+      "public_sha256": "51db6f180e6b9ef592ef823108df534022bc7e58b6b8ae7b25df7cef12be4f44"
+    },
+    "results_v02/r25_extension/replay_all.json": {
+      "source_sha256": "9569ad5f326d6805d0140da032454b4d7ab6670a8db4440ef5ee84a62273dd06",
+      "public_sha256": "9569ad5f326d6805d0140da032454b4d7ab6670a8db4440ef5ee84a62273dd06"
+    },
+    "results_v02/r25_extension/monitor_miss_line_counts.json": {
+      "source_sha256": "4ce0bfed839822d16bff6ab6c6a508fd318e851b22afb6234dd1c1d0bdb869de",
+      "public_sha256": "4ce0bfed839822d16bff6ab6c6a508fd318e851b22afb6234dd1c1d0bdb869de"
+    }
   }
 }
